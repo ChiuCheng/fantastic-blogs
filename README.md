@@ -16,6 +16,7 @@
 ## 并发
 + [Java7/8 中的 HashMap 和 ConcurrentHashMap 全解析](https://www.javadoop.com/post/hashmap)
 + [为什么Goroutine能有上百万个，Java线程却只能有上千个？](https://mp.weixin.qq.com/s/v-Q5aOnYVj7l-kMQopkPLA)
++ [想进大厂？50个多线程面试题，你会多少？（一）](https://segmentfault.com/a/1190000013813740#articleHeader21)
 
 ## HTTP & HTTPS
 + [图解 HTTP 的缓存机制](https://mp.weixin.qq.com/s/nh8mLtCne04UIsfj42SJew)

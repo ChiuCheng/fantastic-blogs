@@ -20,6 +20,7 @@
 + [为什么Goroutine能有上百万个，Java线程却只能有上千个？](https://mp.weixin.qq.com/s/v-Q5aOnYVj7l-kMQopkPLA)
 + [想进大厂？50个多线程面试题，你会多少？（一）](https://segmentfault.com/a/1190000013813740#articleHeader21)  
 + [Java线程池几个参数的理解](https://blog.csdn.net/yinkai1205/article/details/47667971)  
++ [java并发之SynchronousQueue实现原理](https://blog.csdn.net/yanyan19880509/article/details/52562039)
 
 ## Spring
 

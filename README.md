@@ -25,6 +25,8 @@
 
 ### AOP
 + [CGLIB(Code Generation Library)详解](https://blog.csdn.net/danchu/article/details/70238002)  
+### MVC
++ [Optional Path Variables with Spring (Boot) Rest MVC](https://www.n-k.de/2016/05/optional-path-variables-with-spring-boot-rest-mvc.html)
 
 ## HTTP & HTTPS
 + [图解 HTTP 的缓存机制](https://mp.weixin.qq.com/s/nh8mLtCne04UIsfj42SJew)

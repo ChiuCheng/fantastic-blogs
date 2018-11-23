@@ -38,6 +38,9 @@
 + [Java线程池几个参数的理解](https://blog.csdn.net/yinkai1205/article/details/47667971)  
 + [java并发之SynchronousQueue实现原理](https://blog.csdn.net/yanyan19880509/article/details/52562039)
 
+## 分布式
++ [在Transactional加锁中的坑](https://blog.52itstyle.com/archives/2952/)
+
 ## Spring
 
 ### AOP

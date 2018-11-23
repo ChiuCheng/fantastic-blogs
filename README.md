@@ -24,3 +24,11 @@
 ## 编码
 + [魔鬼在细节中：Base64 你可能不知道的几个细节](https://liudanking.com/sitelog/%E9%AD%94%E9%AC%BC%E5%9C%A8%E7%BB%86%E8%8A%82%E4%B8%AD%EF%BC%9Abase64-%E4%BD%A0%E5%8F%AF%E8%83%BD%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E5%87%A0%E4%B8%AA%E7%BB%86%E8%8A%82/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
+
+## Tomcat
++ [Tomcat中NIO源码分析/JavaDoop](https://www.javadoop.com/post/tomcat-nio)
++ Tomcat Connector配置及应用
+	* [详解tomcat的连接数与线程池](https://www.cnblogs.com/kismetv/p/7806063.html#t23)
+	* [Tomcat在限流中的应用](https://blog.52itstyle.com/archives/2982/)
++ [详解Tomcat 配置文件server.xml](http://www.cnblogs.com/kismetv/p/7228274.html#title2-2)
+

@@ -41,6 +41,18 @@
 ## 分布式
 + [在Transactional加锁中的坑](https://blog.52itstyle.com/archives/2952/)
 
+## 服务器
+
+### Tomcat
++ [Tomcat中NIO源码分析/JavaDoop](https://www.javadoop.com/post/tomcat-nio)
++ Tomcat Connector配置及应用
+	* [详解tomcat的连接数与线程池](https://www.cnblogs.com/kismetv/p/7806063.html#t23)
+	* [Tomcat在限流中的应用](https://blog.52itstyle.com/archives/2982/)
++ [详解Tomcat 配置文件server.xml](http://www.cnblogs.com/kismetv/p/7228274.html#title2-2)
+
+### Nginx
+
+
 ## Spring
 
 ### AOP

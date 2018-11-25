@@ -83,6 +83,13 @@
 + [魔鬼在细节中：Base64 你可能不知道的几个细节](https://liudanking.com/sitelog/%E9%AD%94%E9%AC%BC%E5%9C%A8%E7%BB%86%E8%8A%82%E4%B8%AD%EF%BC%9Abase64-%E4%BD%A0%E5%8F%AF%E8%83%BD%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E5%87%A0%E4%B8%AA%E7%BB%86%E8%8A%82/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 ## 数据库
-+ [数据库索引到底是什么，是怎样工作的？](https://blog.csdn.net/weiliangliang111/article/details/51333169)
 + [Innodb中的事务隔离级别和锁的关系](https://tech.meituan.com/innodb_lock.html)
 + [MySQL MVCC实现](http://www.sysdb.cn/index.php/2017/07/04/mysql-mvcc/#more-33)
+
+### 索引&Tips
++ [数据库索引到底是什么，是怎样工作的？](https://blog.csdn.net/weiliangliang111/article/details/51333169)
++ [架构师之路——数据库索引为什么设计成这样？](https://mp.weixin.qq.com/s/YMbRJwyjutGMD1KpI_fS0A)
++ [索引的创建与删除](https://github.com/xiatianhappy666/fantastic-blogs/blob/master/doc/DataBase/IndexCRUD.md)
++ [复合索引/联合索引](https://github.com/xiatianhappy666/fantastic-blogs/blob/master/doc/DataBase/CompositeIndex.md)
++ [索引注意点&Sql优化Tips](https://github.com/xiatianhappy666/fantastic-blogs/blob/master/doc/DataBase/IndexRules.md)
++ [架构师之路——MyISAM与InnoDB的索引差异](https://mp.weixin.qq.com/s/FUXPXKfKyjxAvMUFHZm9UQ)

@@ -34,37 +34,21 @@ CONSTRAINT pk_PersonID PRIMARY KEY (P_Id,LastName)
 
 ```
 优： select * from test where a=10 and b>50
-
 差： select * from test where b>50
-
 优： select * from test order by a
-
 差： select * from test order by b
-
 差： select * from test order by c
-
 优： select * from test where a=10 order by a
-
 优： select * from test where a=10 order by b
-
 差： select * from test where a=10 order by c
-
 优： select * from test where a>10 order by a
-
 差： select * from test where a>10 order by b
-
 差： select * from test where a>10 order by c
-
 优： select * from test where a=10 and b=10 order by a
-
 优： select * from test where a=10 and b=10 order by b
-
 优： select * from test where a=10 and b=10 order by c
-
 优： select * from test where a=10 and b=10 order by a
-
 优： select * from test where a=10 and b>10 order by b
-
 差： select * from test where a=10 and b>10 order by c
 
 ```

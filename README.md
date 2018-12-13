@@ -43,6 +43,15 @@
 + [《Java源码分析》：ConcurrentHashMap JDK1.8](https://blog.csdn.net/u010412719/article/details/52145145)
 + [为什么ConcurrentHashMap的读操作不需要加锁？](https://www.jianshu.com/p/fbf6d586f43a)
 
+
+### JAVA自定义注解详解
++ [注解（Annotation）自定义注解入门](http://www.cnblogs.com/peida/archive/2013/04/24/3036689.html)
++ [注解（Annotation）--注解处理器](https://www.cnblogs.com/peida/archive/2013/04/26/3038503.html)
+
+
+
+
+
 ## 并发
 + [Java7/8 中的 HashMap 和 ConcurrentHashMap 全解析](https://www.javadoop.com/post/hashmap)
 + [为什么Goroutine能有上百万个，Java线程却只能有上千个？](https://mp.weixin.qq.com/s/v-Q5aOnYVj7l-kMQopkPLA)
@@ -68,6 +77,8 @@
 ## Spring
 
 ### AOP
++ [JAVA动态代理机制详解](http://www.cnblogs.com/xiaoluo501395377/p/3383130.html)
++ [Spring + AOP + 自定义注解](https://blog.csdn.net/qq_27093465/article/details/78800100)
 + [CGLIB(Code Generation Library)详解](https://blog.csdn.net/danchu/article/details/70238002)  
 ### MVC
 + [Optional Path Variables with Spring (Boot) Rest MVC](https://www.n-k.de/2016/05/optional-path-variables-with-spring-boot-rest-mvc.html)

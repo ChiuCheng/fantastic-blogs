@@ -19,8 +19,11 @@
 
 ## JVM
 + [面试常问点：深入剖析JVM的那些事](https://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247486633&idx=1&sn=07336f531f3977522c457f237a08fe49&chksm=eae1f9fbdd9670ed3f87a1769f4461ca3959c6dc00e35b42a87de6cfa5392d4c2761687354d6#rd)
++ [理解Java中的弱引用](https://droidyue.com/blog/2014/10/12/understanding-weakreference-in-java/)
 + [Java自定义类加载器与双亲委派模型](https://www.cnblogs.com/wxd0108/p/6681618.html)
 + [Tomcat 类加载器之为何违背双亲委派模型](https://blog.csdn.net/qq_38182963/article/details/78660779)
+
+
 
 ## Java
 
@@ -33,8 +36,6 @@
 + [进程间通信(IPC)](https://www.cnblogs.com/CheeseZH/p/5264465.html)
 
 
-
-
 ### HashMap & ConcurrentHashMap
 + [漫画：什么是HashMap？](https://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653191907&idx=1&sn=876860c5a9a6710ead5dd8de37403ffc&chksm=8c990c39bbee852f71c9dfc587fd70d10b0eab1cca17123c0a68bf1e16d46d71717712b91509&scene=21#wechat_redirect)
 + [漫画：高并发下的HashMap](https://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653192000&idx=1&sn=118cee6d1c67e7b8e4f762af3e61643e&chksm=8c990d9abbee848c739aeaf25893ae4382eca90642f65fc9b8eb76d58d6e7adebe65da03f80d&scene=21#wechat_redirect)
@@ -42,6 +43,16 @@
 + [Java7/8 中的 HashMap 和 ConcurrentHashMap 全解析](https://www.javadoop.com/post/hashmap)
 + [《Java源码分析》：ConcurrentHashMap JDK1.8](https://blog.csdn.net/u010412719/article/details/52145145)
 + [为什么ConcurrentHashMap的读操作不需要加锁？](https://www.jianshu.com/p/fbf6d586f43a)
+
+
+### JAVA自定义注解详解
++ [注解（Annotation）自定义注解入门](http://www.cnblogs.com/peida/archive/2013/04/24/3036689.html)
++ [注解（Annotation）--注解处理器](https://www.cnblogs.com/peida/archive/2013/04/26/3038503.html)
+
+
+## JAVA其他知识点
++ [理解Java中的ThreadLocal](https://droidyue.com/blog/2016/03/13/learning-threadlocal-in-java/)
+
 
 ## 并发
 + [Java7/8 中的 HashMap 和 ConcurrentHashMap 全解析](https://www.javadoop.com/post/hashmap)
@@ -68,6 +79,8 @@
 ## Spring
 
 ### AOP
++ [JAVA动态代理机制详解](http://www.cnblogs.com/xiaoluo501395377/p/3383130.html)
++ [Spring + AOP + 自定义注解](https://blog.csdn.net/qq_27093465/article/details/78800100)
 + [CGLIB(Code Generation Library)详解](https://blog.csdn.net/danchu/article/details/70238002)  
 ### MVC
 + [Optional Path Variables with Spring (Boot) Rest MVC](https://www.n-k.de/2016/05/optional-path-variables-with-spring-boot-rest-mvc.html)

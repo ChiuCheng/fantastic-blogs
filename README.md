@@ -53,6 +53,7 @@
 ## JAVA其他知识点
 + [理解Java中的ThreadLocal](https://droidyue.com/blog/2016/03/13/learning-threadlocal-in-java/)
 + [CPU 100% 排查优化实践](https://github.com/xiatianhappy666/fantastic-blogs/blob/master/doc/ProcessAndThread/CPUtroubleShooting.md)
++ [Java 线程池异常处理](https://www.jianshu.com/p/281958d20b04)
 
 
 ## 并发
@@ -100,6 +101,10 @@
 
 ## 数据库
 + [Innodb中的事务隔离级别和锁的关系](https://tech.meituan.com/innodb_lock.html)
++ [4种事务的隔离级别，InnoDB如何巧妙实现？](https://mp.weixin.qq.com/s/x_7E2R2i27Ci5O7kLQF0UA)
++ [Innodb & MyISAM 区别](https://github.com/xiatianhappy666/fantastic-blogs/blob/master/doc/DataBase/Innodb&MyISAMDiff.md)
++ [InnoDB的并发控制，锁，事务模型, MVCC, 快照读](https://mp.weixin.qq.com/s/R3yuitWpHHGWxsUcE0qIRQ)
++ [Innodb 锁机制](https://mp.weixin.qq.com/s/wGOxro3uShp2q5w97azx5A)
 + [MySQL MVCC实现](http://www.sysdb.cn/index.php/2017/07/04/mysql-mvcc/#more-33)
 + [事务隔离+Spring](https://blog.csdn.net/soonfly/article/details/70305585)
 + [事务传播+Spring](https://blog.csdn.net/soonfly/article/details/70305683)
